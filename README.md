@@ -25,5 +25,7 @@ Reinforcement Learning Structure
 
 # Authors
 Usama Habib
+
 Mohanned Nasir
+
 Raouf Fareh
