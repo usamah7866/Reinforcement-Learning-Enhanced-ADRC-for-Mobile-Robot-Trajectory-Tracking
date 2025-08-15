@@ -6,7 +6,9 @@ In recent years, the application of robotics has significantly advanced many fie
 
 # Run Instructions
 1.Download Matlab 2024b and Simulink.
+
 2.Run RL agent MATLAB script file to train the agent or add already trianed agent file into RL agent block present in Simulink Model.
+
 3.Run Simulation File.
 
 # Gallery
@@ -21,7 +23,7 @@ ADRC Structure
 Reinforcement Learning Structure
 ![RL](https://github.com/user-attachments/assets/7631fd92-3f86-46f7-93bf-36e037d8b698)
 
-#Authors
+# Authors
 Usama Habib
 Mohanned Nasir
 Raouf Fareh
